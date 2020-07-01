@@ -1,0 +1,1 @@
+# lamden_masternode_sync_test

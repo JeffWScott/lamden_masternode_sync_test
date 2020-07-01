@@ -1,0 +1,26 @@
+{
+  "name": "lamden_masternode_sync_tester",
+  "version": "1.0.0",
+  "description": "A simple nodeJs app to check if the masternode blocks are in sync",
+  "main": "testing.js",
+  "dependencies": {
+    "deep-object-diff": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffWScott/lamden_masternode_sync_test.git"
+  },
+  "keywords": [
+    "lamden"
+  ],
+  "author": "Jeff W Scott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffWScott/lamden_masternode_sync_test/issues"
+  },
+  "homepage": "https://github.com/JeffWScott/lamden_masternode_sync_test#readme"
+}
